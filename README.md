@@ -1,3 +1,6 @@
+<h1 align=center style="color:aqua" >Hi👋 its Sercan over here !</h1>
+
+
 - 👋 Hi, I’m @MuhammedSercan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
