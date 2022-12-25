@@ -51,6 +51,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSercan&layout=compact">
 
-<h3>Connect with me 💬 </h3> 
+<p align="center"> 
+  Visitor count<br>
+   <img src="https://profile-counter.glitch.me/MuhammedSercan/count.svg" />
+</p>
 
 
