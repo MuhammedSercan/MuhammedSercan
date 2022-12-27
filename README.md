@@ -4,6 +4,7 @@
 - 👋 Hi, I’m M.Sercan ÜST
 - 🔭 I’m Full Stack Automation Engineer
 - ⚡ Fun fact : I love coding , reading book, football and traveling
+- :handshake: I always open to new ideas and new experiences.
 
 
 <!---
