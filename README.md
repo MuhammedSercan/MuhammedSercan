@@ -47,10 +47,9 @@ You can click the Preview link to take a look at your changes.
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">][github]
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammedSercan&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api?username=FatihKamilAltun&theme=merko">
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSercan&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihKamilAltun&layout=compact">
 
 
 
