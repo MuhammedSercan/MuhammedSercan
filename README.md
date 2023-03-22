@@ -51,16 +51,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihKamilALtun&layout=compact">
 
-
-
-
-
-
-
-
-
-
-
 <p align="center"> 
   Visitor count<br>
    <img src="https://profile-counter.glitch.me/MuhammedSercan/count.svg" />
