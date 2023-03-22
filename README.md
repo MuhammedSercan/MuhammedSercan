@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m M.Sercan ÜST
-- 🔭 I’m Full Stack Automation Engineer
+- 🔭 I’m Software Test Engineer
 - ⚡ Fun fact : I love coding , reading book, football and traveling
 - :handshake: I always open to new ideas and new experiences.
 
@@ -49,7 +49,18 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammedSercan&theme=merko">
 <br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSercan&layout=compact">
+
+
+
+
+
+
+
+
+
+
 
 <p align="center"> 
   Visitor count<br>
