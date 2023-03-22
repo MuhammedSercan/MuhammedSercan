@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammedSercan&theme=merko">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSercan&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihKamilALtun&layout=compact">
 
 
 
